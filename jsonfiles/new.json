@@ -1,0 +1,60 @@
+{
+    "home": {
+        "path": "/",
+        "data": {
+            "content": [
+                {
+                    "type": "HeadingBlock",
+                    "props": {
+                        "title": "This is the home page ",
+                        "id": "HeadingBlock-2j0pty2p7o8ls30pjwd"
+                    }
+                },
+                {
+                    "type": "Card",
+                    "props": {
+                        "title": "card title",
+                        "description": "This is Card Description",
+                        "mode": "flat",
+                        "id": "Card-2m8yfe63ysdls30pjwd"
+                    }
+                }
+            ],
+            "root": {
+                "props": {
+                    "title": ""
+                }
+            },
+            "zones": {}
+        }
+    },
+    "about": {
+        "path": "/about",
+        "data": {
+            "content": [
+                {
+                    "type": "HeadingBlock",
+                    "props": {
+                        "title": "This is the about page ",
+                        "id": "HeadingBlock-nd3hs8skpbls30pjwd"
+                    }
+                },
+                {
+                    "type": "Card",
+                    "props": {
+                        "title": "Card 1",
+                        "description": "This is card description 1",
+                        "mode": "",
+                        "id": "Card-echgbpetohfls30pjwd"
+                    }
+                }
+            ],
+            "root": {
+                "props": {
+                    "title": ""
+                }
+            },
+            "zones": {}
+        }
+    }
+}

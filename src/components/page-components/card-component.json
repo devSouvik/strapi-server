@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_page_components_card_components",
+  "info": {
+    "displayName": "CardComponent",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "string"
+    },
+    "Mode": {
+      "type": "string"
+    },
+    "CardIcon": {
+      "type": "string"
+    }
+  }
+}

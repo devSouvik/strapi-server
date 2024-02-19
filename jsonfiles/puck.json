@@ -1,0 +1,43 @@
+{
+    "_id": {
+        "$oid": "65bb4fbb120dcee2800dc036"
+    },
+    "path": "/",
+    "data": {
+        "content": [
+            {
+                "type": "HeadingBlock",
+                "props": {
+                    "title": "Heading",
+                    "id": "HeadingBlock-d24172d6-0993-4996-ac41-fbfded85e542"
+                }
+            },
+            {
+                "type": "Card",
+                "props": {
+                    "title": "Title",
+                    "description": "Description",
+                    "icon": "alert-circle",
+                    "mode": "flat",
+                    "id": "Card-ab699dc1-e5c9-490c-bfd5-1412a2c78974"
+                }
+            },
+            {
+                "type": "Card",
+                "props": {
+                    "title": "Title",
+                    "description": "Description",
+                    "icon": "alert-circle",
+                    "mode": "flat",
+                    "id": "Card-ab699dc1-e5c9-490c-bfd5-1412a2c78974"
+                }
+            }
+        ],
+        "root": {
+            "props": {
+                "title": ""
+            }
+        },
+        "zones": {}
+    }
+}

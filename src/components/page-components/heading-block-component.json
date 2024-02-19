@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_page_components_heading_block_components",
+  "info": {
+    "displayName": "HeadingBlockComponent"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    }
+  }
+}

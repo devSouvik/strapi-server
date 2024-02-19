@@ -1,0 +1,35 @@
+{
+  "collectionName": "components_page_components_hero_components",
+  "info": {
+    "displayName": "HeroComponent",
+    "icon": "grid",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string",
+      "required": true,
+      "unique": false
+    },
+    "Description": {
+      "type": "blocks"
+    },
+    "backgroundImage": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "CTAbutton": {
+      "type": "component",
+      "repeatable": true,
+      "component": "page-components.button-component"
+    }
+  }
+}

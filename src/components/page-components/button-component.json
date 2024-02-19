@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_page_components_button_components",
+  "info": {
+    "displayName": "ButtonComponent",
+    "icon": "cursor",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Label": {
+      "type": "string"
+    },
+    "href": {
+      "type": "string"
+    },
+    "ButtonVariant": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "id": 2,
+            "Name": "home",
+            "Slug": "/",
+            "Hero": {
+                "id": 2,
+                "Title": "This is the hero component",
+                "Description": [
+                    {
+                        "type": "paragraph",
+                        "children": [
+                            {
+                                "type": "text",
+                                "text": "This is the description for the hero component......."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "Card": [
+                {
+                    "id": 3,
+                    "Title": "card title",
+                    "Description": "This is Card Description",
+                    "Mode": "flat"
+                }
+            ],
+            "HeadingBlock": [
+                {
+                    "id": 1,
+                    "Title": "This is the home page "
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "Name": "about",
+            "Slug": "/about",
+            "Hero": null,
+            "Card": [
+                {
+                    "id": 5,
+                    "Title": "Card 1",
+                    "Description": "This is card description 1",
+                    "Mode": null
+                }
+            ],
+            "HeadingBlock": [
+                {
+                    "id": 2,
+                    "Title": "This is the about page "
+                }
+            ]
+        }
+    ]
+}
